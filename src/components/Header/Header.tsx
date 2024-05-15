@@ -1,27 +1,27 @@
 import Link from 'next/link'
 export default function Header() {
 	return (
-		<header className='relative text-slate-300 md:py-5 z-50 border-b border-gray-800'>
+		<header className='relative text-slate-300 p-5 z-50 border-b border-gray-800'>
 			<nav>
 				<ul className='flex justify-between'>
 					<Link href={'/'}>
 						<li className='hover:text-[#5F6A6A] ease-in-out duration-300'>
-							Home
+							Life in Hull
 						</li>
 					</Link>
-					<Link href={'/help'}>
+					<Link href={'/HullTourism'}>
 						<li className='hover:text-[#5F6A6A] ease-in-out duration-300'>
-							Help
+							Hull tourism
 						</li>
 					</Link>
-					<Link href={'/about'}>
+					<Link href={'/HullCulture'}>
 						<li className='hover:text-[#5F6A6A] ease-in-out duration-300'>
-							About Us
+							Hull culture
 						</li>
 					</Link>
-					<Link href={'/support'}>
+					<Link href={'/HullHistory'}>
 						<li className='hover:text-[#5F6A6A] ease-in-out duration-300'>
-							Support
+							Hull history
 						</li>
 					</Link>
 				</ul>
