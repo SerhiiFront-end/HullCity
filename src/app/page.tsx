@@ -17,20 +17,20 @@ export default function Home() {
 				As a prominent port city, Hull boasts a fascinating maritime heritage
 				that dates back centuries. Explore the historic docks, visit the
 				award-winning Maritime Museum, and immerse yourself in tales of
-				seafaring adventures that have shaped the city's identity.​
+				seafaring adventures that have shaped the citys identity.
 			</Slide>
 			<Slide title='A Cultural Gem of the North​​'>
-				Hull's cultural scene is thriving, with a vibrant array of theaters, art
+				Hulls cultural scene is thriving, with a vibrant array of theaters, art
 				galleries, and music venues. From the iconic Hull Truck Theatre to the
-				innovative Humber Street Gallery, there's no shortage of cultural
-				experiences to indulge in. The city's status as the UK City of Culture
-				in 2017 further solidified its reputation as a cultural hub.​
+				innovative Humber Street Gallery, there is no shortage of cultural
+				experiences to indulge in. The citys status as the UK City of Culture in
+				2017 further solidified its reputation as a cultural hub.​
 			</Slide>
 			<Slide title='Where Community Comes First​​'>
 				What truly sets Hull apart is its strong sense of community. From
 				grassroots initiatives to community events, the people of Hull take
 				pride in supporting one another and fostering a welcoming atmosphere for
-				all. Whether you're a long-time resident or a newcomer, you'll feel
+				all. Whether youre a long-time resident or a newcomer, you will feel
 				right at home in this tight-knit community.​
 			</Slide>
 			<Slide title='Hull: Embracing the Future​​'>

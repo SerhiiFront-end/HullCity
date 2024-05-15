@@ -28,13 +28,13 @@ export default function Home() {
 				In the 20th century, Hull continued its industrial prowess, particularly
 				in industries like manufacturing and shipping. However, it also faced
 				challenges such as economic decline and heavy bombing during World War
-				II, leading to post-war reconstruction efforts and the city's eventual
+				II, leading to post-war reconstruction efforts and the citys eventual
 				revitalization.​
 			</Slide>
 			<Slide title='21st century​'>
 				In the 21st century, Hull has undergone significant regeneration
 				efforts, with initiatives aimed at revitalizing its economy, culture,
-				and infrastructure. Notable developments include the city's designation
+				and infrastructure. Notable developments include the citys designation
 				as the UK City of Culture in 2017, driving tourism and investment,
 				alongside ongoing projects to enhance its waterfront and promote
 				sustainable growth.​
