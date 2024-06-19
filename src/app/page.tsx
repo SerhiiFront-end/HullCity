@@ -5,7 +5,7 @@ export default function Home() {
 			<Slide
 				title='A Vibrant Maritime City'
 				imagePosition='left'
-				imageUrl='/background.png'
+				imageUrl='/5.jpeg'
 			>
 				Situated on the northeastern coast of England, Hull is a city rich in
 				history, culture, and maritime heritage. From its bustling port to its
@@ -26,14 +26,22 @@ export default function Home() {
 				experiences to indulge in. The citys status as the UK City of Culture in
 				2017 further solidified its reputation as a cultural hub.​
 			</Slide>
-			<Slide title='Where Community Comes First​​'>
+			<Slide
+				title='Where Community Comes First​​'
+				imagePosition='right'
+				imageUrl='/1.jpeg'
+			>
 				What truly sets Hull apart is its strong sense of community. From
 				grassroots initiatives to community events, the people of Hull take
 				pride in supporting one another and fostering a welcoming atmosphere for
 				all. Whether youre a long-time resident or a newcomer, you will feel
 				right at home in this tight-knit community.​
 			</Slide>
-			<Slide title='Hull: Embracing the Future​​'>
+			<Slide
+				title='Hull: Embracing the Future​​'
+				imagePosition='left'
+				imageUrl='/2.jpeg'
+			>
 				With ongoing redevelopment projects, investment in infrastructure, and a
 				growing emphasis on sustainability, Hull is poised for a bright future.
 				As the city continues to evolve, its unique charm and resilient spirit

@@ -3,7 +3,11 @@ import { Slide } from '@/ui/Slide'
 export default function Home() {
 	return (
 		<main>
-			<Slide title='The foundation of the Hull city​'>
+			<Slide
+				title='The foundation of the Hull city​'
+				imagePosition='right'
+				imageUrl='/9.jpeg'
+			>
 				Hull, founded in the late 12th century, grew from a strategic port
 				established by monks from Meaux Abbey, gaining royal recognition in
 				1293. Over the centuries, it evolved into a major trading hub, enduring
@@ -11,20 +15,28 @@ export default function Home() {
 				like shipbuilding, shaping its identity as a vibrant maritime city
 				today.​
 			</Slide>
-			<Slide title='Hull city in 13-17 centenary​'>
+			<Slide
+				title='Hull city in 13-17 centenary​'
+				imagePosition='left'
+				imageUrl='/10.jpeg'
+			>
 				During the 13th to 17th centuries, Hull progressed from a small port to
 				a significant trading hub, benefiting from its strategic location and
 				royal charter. It became a vital player in northern European trade,
 				weathering challenges like the English Civil War and emerging as a key
 				maritime city by the end of this period.​
 			</Slide>
-			<Slide title='Progress of the Hull city in 17-19​'>
+			<Slide
+				title='Progress of the Hull city in 17-19​'
+				imagePosition='right'
+				imageUrl='/11.jpeg'
+			>
 				In the 17th to 19th centuries, Hull experienced rapid industrialization,
 				becoming a major center for shipbuilding, fishing, and trade. Its port
 				thrived, handling goods from around the world and contributing to its
 				economic growth and prosperity.​ ​
 			</Slide>
-			<Slide title='20th century​'>
+			<Slide title='20th century​' imagePosition='left' imageUrl='/12.jpeg'>
 				In the 20th century, Hull continued its industrial prowess, particularly
 				in industries like manufacturing and shipping. However, it also faced
 				challenges such as economic decline and heavy bombing during World War

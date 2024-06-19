@@ -3,7 +3,11 @@ import { Slide } from '@/ui/Slide'
 export default function Home() {
 	return (
 		<main>
-			<Slide title='Introduction to Hull City Culture​'>
+			<Slide
+				title='Introduction to Hull City Culture​'
+				imagePosition='left'
+				imageUrl='/3.jpeg'
+			>
 				Hull, a vibrant city in East Yorkshire, boasts a rich tapestry of
 				culture that seamlessly blends tradition with innovation. From its
 				historic roots as a bustling port to its contemporary arts scene, Hull
@@ -16,7 +20,7 @@ export default function Home() {
 				aquarium or stroll along the Marina, immersing themselves in Hulls
 				nautical history.​
 			</Slide>
-			<Slide title='Literary Legacy'>
+			<Slide title='Literary Legacy' imagePosition='right' imageUrl='/4.jpeg'>
 				Hull has left an indelible mark on the literary world, serving as the
 				hometown of renowned authors such as Philip Larkin and Andrew Marvell.
 				The citys literary festivals and events celebrate its cultural
@@ -30,7 +34,7 @@ export default function Home() {
 				reputation as a cultural hotspot, leaving a lasting legacy of creativity
 				and community.​
 			</Slide>
-			<Slide title='Community Spirit'>
+			<Slide title='Community Spirit' imagePosition='left' imageUrl='/5.jpeg'>
 				At the heart of Hulls culture is its strong sense of community, where
 				diversity is celebrated and embraced. From grassroots initiatives to
 				multicultural festivals, Hull fosters a spirit of inclusivity that

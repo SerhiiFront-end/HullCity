@@ -21,7 +21,7 @@ export default function RootLayout({
 	return (
 		<html lang='en' className={oswald.className}>
 			<body
-				className={`max-w-7xl m-auto  text-white flex-col flex bg-no-repeat bg-cover bg-[url('./background.png')]`}
+				className={`max-w-7xl m-auto  text-white flex-col flex bg-no-repeat bg-fixed bg-cover bg-[url('./background.png')]`}
 			>
 				<Header />
 				{children}

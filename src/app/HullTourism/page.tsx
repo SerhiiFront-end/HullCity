@@ -3,7 +3,11 @@ import { Slide } from '@/ui/Slide'
 export default function Home() {
 	return (
 		<main>
-			<Slide title='Welcome to Hull City​'>
+			<Slide
+				title='Welcome to Hull City​'
+				imagePosition='right'
+				imageUrl='/6.jpeg'
+			>
 				Hull, a vibrant city in East Yorkshire, offers a rich tapestry of
 				history, culture, and stunning waterfront views. From its iconic
 				attractions to its diverse culinary scene, Hull promises a memorable
@@ -16,7 +20,7 @@ export default function Home() {
 				Take a stroll through the charming streets of the Old Town, lined with
 				beautifully preserved Georgian and Victorian architecture.​
 			</Slide>
-			<Slide title='Cultural Hub​'>
+			<Slide title='Cultural Hub​' imagePosition='left' imageUrl='/7.jpeg'>
 				Hulls cultural scene is thriving, with world-class venues like the Hull
 				Truck Theatre and the Ferens Art Gallery hosting an array of
 				performances and exhibitions throughout the year. Dont miss the annual
@@ -30,7 +34,11 @@ export default function Home() {
 				restaurants. For a unique experience, hop on a boat tour to explore the
 				city from a different perspective.​
 			</Slide>
-			<Slide title='Gateway to Nature​'>
+			<Slide
+				title='Gateway to Nature​'
+				imagePosition='right'
+				imageUrl='/8.jpeg'
+			>
 				Nature lovers will delight in Hulls proximity to stunning natural
 				landscapes, including the breathtaking Yorkshire Wolds and the tranquil
 				Humber Bridge Country Park. Embark on scenic hikes, cycle along
